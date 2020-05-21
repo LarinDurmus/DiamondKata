@@ -1,0 +1,24 @@
+{
+  "name": "DiamondKata",
+  "version": "1.0.0",
+  "description": "",
+  "main": " diamond.test.js",
+  "scripts": { 
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarinDurmus/DiamondKata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarinDurmus/DiamondKata/issues"
+  },
+  "homepage": "https://github.com/LarinDurmus/DiamondKata#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
