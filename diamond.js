@@ -1,7 +1,7 @@
 
     var letter = [ 'A', 'B', 'C', 'D', 'E'];
     var letter_number = 0;
-    var diamond = new Array(26); 
+    var diamond = new Array(5); 
  
     function giveDiamond(user_letter) {
         // suche nach Buchstabe
